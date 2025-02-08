@@ -1,0 +1,157 @@
+.bg_basice{
+    background-color: #07101D!important;
+}
+
+.bg_ornage {
+    background-color: orangered !important;
+}
+.background_1{
+    background: linear-gradient(90deg, #7011AD 0%, #BC0505 49.31%, #FC630F 100%);
+}
+.background_2{
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%);
+}
+.text_ornage {
+    color: orangered !important;
+}
+
+.text_94 {
+    color: #949494 !important;
+}
+.text_FFF {
+    color: #FFF !important;
+}
+
+.w_h_btn_login {
+    width: 184px;
+    height: 64px;
+}
+
+.w_10 {
+    width: 10%;
+}
+.w_40 {
+    width: 40%;
+}
+.w_60 {
+    width: 60%;
+}
+.w_90 {
+    width: 90%;
+}
+
+
+.title_main {
+    font-family: Kalameh;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 44.2px;
+    letter-spacing: 0%;
+}
+
+.title_main_1 {
+    font-family: Kalameh;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 108.8px;
+    letter-spacing: 0%;
+
+}
+
+.title_main_2 {
+    font-family: Kalameh;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 40.8px;
+    letter-spacing: 0%;
+    color: rgba(255, 255, 255, 0.5);
+    
+
+}
+
+.border_orgine{
+    border: 1px solid orangered;
+}
+
+#img_main::after{
+    content: "";
+    background-image: url(../img/Path\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 37px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 15%;
+    right: 20%;
+}
+#img_main::before{
+    content: "";
+    background-image: url(../img/scribble\ final\ version-02\ \(2\).png);
+    background-repeat: no-repeat;
+    width: 67px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+}
+
+.position_box{
+    bottom: 15%;
+    right: 15%;
+}
+
+.border_input_main{
+    border: 0.1px solid #07101D;
+    color:#FFFFFF;
+    
+}
+
+.form-control:focus{
+    border: 0.1px solid #07101D;
+    outline: 0;
+    box-shadow: 0 0 0 0 rgba(253, 252, 252, 0);
+    color: #FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Ellipse_1 {
+    width: 900px;
+    height: 800px;
+    background: radial-gradient(57.85% 57.85% at 50% 50%, rgba(61, 13, 88, 0.38) 32.38%, rgba(7, 15, 28, 0) 100%);
+}
+
+.Ellipse_positoin_1 {
+    top: -487px;
+    right: -570px;
+}
+
+.Ellipse_2 {
+    display: none;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(57.85% 57.85% at 50% 50%, rgba(61, 13, 88, 0.38) 32.38%, rgba(7, 15, 28, 0) 100%);
+}
+
+.Ellipse_positoin_2 {
+    top: -154px;
+    left: -70px;
+}

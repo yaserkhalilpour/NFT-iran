@@ -1,0 +1,8 @@
+@media screen and (max-width:600px){
+    .Ellipse_1{
+       display: none;
+    }
+    .Ellipse_2{
+       display: inline-block;
+    }
+}

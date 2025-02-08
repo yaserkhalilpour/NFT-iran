@@ -1,0 +1,46 @@
+@font-face {
+    font-family: Gilroy;
+    font-weight: bold;
+    src: url(../fonts/WebFonts/_Woff/Gilroy-Bold.woff) format("woff");
+}
+@font-face {
+    font-family: Kalameh;
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb-Bold.woff) format("woff");
+}
+@font-face {
+    font-family: Kalameh;
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb-Thin.woff) format("woff");
+}
+@font-face {
+    font-family: Kalameh;
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb-Black.woff) format("woff");
+}
+@font-face {
+    font-family: Kalameh;
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb-Regular.woff) format("woff");
+}
+@font-face {
+    font-family: KalameFaNum;
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Black.woff) format("woff");
+}
+@font-face {
+    font-family: KalameFaNum;
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Bold.woff) format("woff");
+}
+@font-face {
+    font-family: KalameFaNum;
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Regular.woff) format("woff");
+}
+@font-face {
+    font-family: KalameFaNum;
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Thin.woff) format("woff");
+}
+.font_family_Gilroy{
+    font-family: Gilroy;
+}
+.font_family_Kalameh{
+    font-family: Kalameh;
+}
+.font_family_KalamehFaNum{
+    font-family: KalamehFaNum;
+}
