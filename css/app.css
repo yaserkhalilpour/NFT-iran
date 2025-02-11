@@ -54,23 +54,60 @@
 
 .w_h_hidden_wallet {
     height: 43px !important;
-    width: 22px !important;
-    bottom: -12px;
+    width: 23px !important;
+    bottom: -14px;
     right: 8px;
     transform: rotate(45deg);
 }
 
+.contanier_wallet_Meta_Mask {
+
+    background: linear-gradient(to right bottom, #07101D, #FC280C);
+}
 .wallet_Meta_Mask {
     border-left: 1px solid #FC280C;
 }
-.contanier_wallet_Meta_Mask {
-    border: 1px solid;
+.contanier_wallet_Coinbase {
 
-border-image-source: linear-gradient(317.29deg, #FC280C 8.01%, #07101D 100%);
+    background-image: linear-gradient(to top left, #00D1FF, #07101D);
+
+}
+.wallet_Coinbase {
+    border-left: 1px solid #00D1FF;
+}
+.contanier_wallet_Exodus {
+
+    background-image: linear-gradient(to top left, #760AFF , #07101D );
+}
+.wallet_Exodus {
+    border-left: 1px solid #760AFF;
+}
+.contanier_wallet_Uniswap {
+
+    background-image: linear-gradient(to top left, #FE007A, #07101D);
+
+}
+.wallet_Uniswap  {
+    border-left: 1px solid #FE007A;
+}
+.contanier_wallet_Bainance {
+
+    background-image: linear-gradient(to top left, #FFBF1C, #07101D);
+}
+.wallet_Bainance {
+    border-left: 1px solid #FFBF1C;
+}
+
+.wallet_box {
+    padding: 1px;
+    height: 200px;
+}
+
+.wallet_box>div {
+    background-color: #161E2A;
 
 
-    
-    }
+}
 
 .w_90 {
     width: 90%;
