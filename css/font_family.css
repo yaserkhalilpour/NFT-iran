@@ -21,19 +21,19 @@
 }
 @font-face {
     font-family: KalameFaNum;
-    src: url(../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Black.woff) format("woff");
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb\FaNum\-Black.woff) format("woff");
 }
 @font-face {
     font-family: KalameFaNum;
-    src: url(../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Bold.woff) format("woff");
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb\FaNum\-Bold.woff) format("woff");
 }
 @font-face {
     font-family: KalameFaNum;
-    src: url(../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Regular.woff) format("woff");
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb\FaNum\-Regular.woff) format("woff");
 }
 @font-face {
     font-family: KalameFaNum;
-    src: url(../fonts/WebFonts/_Woff/KalamehWeb\(FaNum\)-Thin.woff) format("woff");
+    src: url(../fonts/WebFonts/_Woff/KalamehWeb\FaNum\-Thin.woff) format("woff");
 }
 .font_family_Gilroy{
     font-family: Gilroy;

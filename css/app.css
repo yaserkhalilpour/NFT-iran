@@ -241,6 +241,15 @@
 }
 
 
+.w_h_hot_section{
+    height: 650px;
+    background-color: #FFFFFF1A;
+}
+
+
+.w_h_hot_section_time_heart{
+    background-color: #ffffff30;
+}
 
 
 
@@ -251,10 +260,7 @@
 
 
 
-
-
-
-.Ellipse_1 {
+/* .Ellipse_1 {
     width: 900px;
     height: 800px;
     background: radial-gradient(57.85% 57.85% at 50% 50%, rgba(61, 13, 88, 0.38) 32.38%, rgba(7, 15, 28, 0) 100%);
@@ -275,4 +281,4 @@
 .Ellipse_positoin_2 {
     top: -154px;
     left: -70px;
-}
+} */
